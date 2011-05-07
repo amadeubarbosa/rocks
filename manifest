@@ -1402,6 +1402,15 @@ repository = {
       }
     }
   },
+  ['lua-yajl']={
+    ['2.0-1']={
+      {
+        arch='src'
+      }, {
+        arch='rockspec'
+      }
+    }
+  },
   ['lua-zmq']={
     ['1.0-1']={
       {
