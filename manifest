@@ -6305,6 +6305,15 @@ repository = {
          }
       }
    },
+   stacktraceplus = {
+      ['0.1.0-1'] = {
+         {
+            arch = "rockspec"
+         }, {
+            arch = "src"
+         }
+      }
+   },
    statsd = {
       ['1.0.0-1'] = {
          {
